@@ -24,7 +24,7 @@ I am a junior mobile application developer specializing in **Flutter** and **Dar
 ---
 
 ### 🤝 Connect with Me
-* 🌐 **Portfolio:** [Visit My Portfolio]([https://your-portfolio-link.com](https://tanjimulnoman.vercel.app/))
+* 🌐 **Portfolio:** [Visit My Portfolio](https://tanjimulnoman.vercel.app/)
 * 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/tanjimul-islam-301564379/)
 * 🐙 **GitHub:** [Follow on GitHub](https://github.com/NomanUnseen)
 * ✉️ **Email:** nomantanjimulislam@gmail.com
