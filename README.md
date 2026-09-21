@@ -35,5 +35,6 @@ I am a junior mobile application developer specializing in **Flutter** and **Dar
 ---
 
 ### 🤝 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile URL]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/tanjimul-islam-301564379/))
+* **Portfolio:** [https://tanjimulnoman.vercel.app/]
+* **LinkedIn:** [https://www.linkedin.com/in/tanjimul-islam-301564379/]
 * **Email:** nomantanjimulislam@gmail.com
