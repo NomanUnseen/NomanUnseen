@@ -23,18 +23,7 @@ I am a junior mobile application developer specializing in **Flutter** and **Dar
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NomanUnseen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomanUnseen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Connect with Me
-* **Portfolio:** [https://tanjimulnoman.vercel.app/]
-* **LinkedIn:** [https://www.linkedin.com/in/tanjimul-islam-301564379/]
-* **Email:** nomantanjimulislam@gmail.com
+* 🌐 **Portfolio:** [Visit My Portfolio](https://tanjimulnoman.vercel.app/)
+* 💼 **LinkedIn:** [Connect on LinkedIn]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/tanjimul-islam-301564379/))
+* ✉️ **Email:** [Send Me an Email](mailto:nomantanjimulislam@gmail.com)
